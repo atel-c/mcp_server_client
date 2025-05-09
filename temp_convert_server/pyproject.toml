@@ -1,0 +1,9 @@
+[project]
+name = "temp-convert-server"
+version = "0.1.0"
+description = "Serveur MCP qui convertit des listes de températures de villes entre Celsius et Fahrenheit, restructurant les données pour inclure les deux unités pour chaque mesure."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mcp[cli]>=1.7.1",
+]

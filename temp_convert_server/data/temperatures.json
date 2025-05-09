@@ -1,0 +1,10 @@
+{
+    "Paris": {
+        "scale": "celsius",
+        "values": [12.5, 15.0, 18.3]
+    },
+    "New York": {
+        "scale": "fahrenheit",
+        "values": [59.0, 68.0, 72.5]
+    }
+}
